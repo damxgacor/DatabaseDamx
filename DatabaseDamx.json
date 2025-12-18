@@ -1,3 +1,14 @@
 {
-  "dbny": [601157072764, 601130538675, 778899001122]
+  "dbny": [
+    {
+      "nomor": "601157072764",
+      "nama": "Rafathar",
+      "info": "Contoh catatan tambahan"
+    },
+    {
+      "nomor": "601130538675",
+      "nama": "User2",
+      "info": "Catatan lain"
+    }
+  ]
 }
